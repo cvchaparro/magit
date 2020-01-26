@@ -3,9 +3,12 @@
 /*.tar
 /*.tar.gz
 /config.mk
+/docs/*.aux
 /docs/*.epub
 /docs/*.html
 /docs/*.info
+/docs/*.log
+/docs/*.out
 /docs/*.pdf
 /docs/META-INF/
 /docs/OEBPS/
